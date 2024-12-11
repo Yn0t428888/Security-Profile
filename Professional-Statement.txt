@@ -1,0 +1,4 @@
+Hello there! My name is Andres, and I am currently an undergraduate student at the University of California, Irvine pursuing a degree in Computer Science with a specialization in Networked Systems. 
+During my undergraduate courses so far, I have achieved a proficient knowledge of a few object-oriented languages (most notebally Java and C++), as well as dedicating an academic year to learning Python. 
+Furthermore, I have gained a fundamental understanding of computer networks and the workings of the internet, including the operations of different protocols and their differences (such as TCP V.S. UDP), routing (Dijkstra's), and more. 
+I am looking to break into the security world to gain applied experience to what I have come to understand so far and to learn even more.
